@@ -1,2 +1,0 @@
-# simpleToDo
-To Do list
